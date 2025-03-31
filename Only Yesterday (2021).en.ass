@@ -14,9 +14,9 @@ Video File: おもひでぽろぽろ - [1920-1920x1080@KFMVFR.hevc10_crf 20][字
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 846
-Active Line: 859
-Video Position: 49620
+Scroll Position: 1227
+Active Line: 1249
+Video Position: 99091
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: NarrTop,Cabin,30,&H00FFFFFF,&H000000FF,&H007B0C12,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.07,0:00:12.16,Sign,,0,0,0,,41st year of the Showa era, 9th Month (September 1966)
+Dialogue: 0,0:00:06.07,0:00:12.16,Sign,,0,0,0,,41st year of the Showa era, Ninth Month (September 1966)
 Dialogue: 0,0:00:06.41,0:00:08.68,Default,,0,0,0,,Pencil sharpeners!\NPencil sharpeners!
 Dialogue: 0,0:00:12.16,0:00:15.00,Sign,,0,0,0,,Okajima
 Dialogue: 0,0:00:12.28,0:00:16.78,Default,,0,0,0,,Pencil sharpeners!\NPencil sharpeners!
@@ -123,13 +123,13 @@ Dialogue: 0,0:06:28.15,0:06:30.12,Default,,0,0,0,,Acting!
 Dialogue: 0,0:06:30.12,0:06:35.13,Default,,0,0,0,,When I was on stage, that was what mattered the most.
 Dialogue: 0,0:06:37.60,0:06:41.23,Default,,0,0,0,,As an actress, that's very important.
 Dialogue: 0,0:06:42.27,0:06:45.57,Default,,0,0,0,,But Grandma, you weren't an actress.
-Dialogue: 0,0:06:48.73,0:06:51.85,Sign,,0,0,0,,41st year of the Showa era, 9th Month (September 1966)
+Dialogue: 0,0:06:48.73,0:06:51.85,Sign,,0,0,0,,41st year of the Showa era, Ninth Month (September 1966)
 Dialogue: 0,0:06:51.28,0:06:54.78,Default,,0,0,0,,What? \NYou're doing Kobutori Jii-san for the play?
 Dialogue: 0,0:06:54.78,0:06:55.51,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:06:56.32,0:06:57.88,Default,,0,0,0,,What role are you playing, Taeko?
-Dialogue: 0,0:06:57.82,0:07:00.55,Default,,0,0,0,,An old woman? Oh, a demon?
-Dialogue: 0,0:07:00.55,0:07:01.63,Default,,0,0,0,,Village Child 1.
-Dialogue: 0,0:07:02.62,0:07:05.47,Default,,0,0,0,,Just village child 1?
+Dialogue: 0,0:06:56.32,0:06:57.90,Default,,0,0,0,,What role are you playing, Taeko?
+Dialogue: 0,0:06:57.90,0:07:00.55,Default,,0,0,0,,An old woman? Oh, a demon?
+Dialogue: 0,0:07:00.55,0:07:01.63,Default,,0,0,0,,Village Child One.
+Dialogue: 0,0:07:02.62,0:07:05.47,Default,,0,0,0,,Just Village Child One?
 Dialogue: 0,0:07:06.73,0:07:08.34,Default,,0,0,0,,But you do have lines.
 Dialogue: 0,0:07:08.43,0:07:09.23,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:07:09.23,0:07:10.17,Default,,0,0,0,,Is that so?
@@ -155,11 +155,12 @@ Dialogue: 0,0:08:15.65,0:08:19.65,Sign,,0,0,0,,Josai Ward Municipal Koshin Eleme
 Dialogue: 0,0:08:15.76,0:08:16.47,Default,,0,0,0,,Yes!
 Dialogue: 0,0:08:16.47,0:08:19.30,Default,,0,0,0,,Well then I'll start with Yamada-kun.
 Dialogue: 0,0:08:20.02,0:08:21.09,Default,,0,0,0,,Good...
-Dialogue: 0,0:08:22.47,0:08:26.34,Default,,0,0,0,,(Looking out) Ah, it's another good day.
-Dialogue: 0,0:08:26.34,0:08:30.58,Default,,0,0,0,,Hey, let's try doing it a little more energetically.\NGood?
+Dialogue: 0,0:08:22.47,0:08:26.34,Default,,0,0,0,,Ah, it's another good day.
+Dialogue: 0,0:08:26.34,0:08:27.98,Default,,0,0,0,,Hey, let's try with a little more energy.
+Dialogue: 0,0:08:28.51,0:08:29.13,Default,,0,0,0,,Good?
 Dialogue: 0,0:08:30.58,0:08:35.45,Default,,0,0,0,,Hey, what does it say when we come out?
 Dialogue: 0,0:08:35.45,0:08:41.92,Default,,0,0,0,,"Appear while playing."\NWhat are we going to play?
-Dialogue: 0,0:08:41.92,0:08:44.96,Default,,0,0,0,,Hmm...\NHmm... anything is fine.
+Dialogue: 0,0:08:41.92,0:08:44.96,Default,,0,0,0,,Hmm...\NAnything is fine.
 Dialogue: 0,0:08:44.96,0:08:47.79,Default,,0,0,0,,That's not good!\NLet's think about it properly.
 Dialogue: 0,0:08:47.79,0:08:49.73,Default,,0,0,0,,Ah, what about hopscotch?
 Dialogue: 0,0:08:49.73,0:08:54.10,Default,,0,0,0,,If it's hopscotch or something\NYou can come out right away, right?
@@ -226,7 +227,7 @@ Dialogue: 0,0:11:40.63,0:11:42.36,Default,,0,0,0,,Ah. I see….
 Dialogue: 0,0:11:44.06,0:11:49.23,Default,,0,0,0,,{No clue}
 Dialogue: 0,0:11:49.23,0:11:53.15,Sign,,0,0,0,,The Grateful Crane\NFifth Grade, Class Four.
 Dialogue: 0,0:11:53.70,0:12:00.50,Sign,,0,0,0,,Story of Kobutori Jii-san ("Grandpa with a Lump")\NFifth Grade, Class Five.
-Dialogue: 0,0:11:54.65,0:11:58.41,Default,,0,0,0,,Next up, Class 5's "Grandpa with a Lump".
+Dialogue: 0,0:11:54.65,0:11:58.41,Default,,0,0,0,,Next up, Class Five's "Grandpa with a Lump".
 Dialogue: 0,0:12:00.92,0:12:02.73,Default,,0,0,0,,Somehow I'm getting nervous..
 Dialogue: 0,0:12:04.30,0:12:05.99,Default,,0,0,0,,Oh, stop it.
 Dialogue: 0,0:12:02.86,0:12:04.30,Default,,0,0,0,,She only has one line anyway..
@@ -558,7 +559,7 @@ Dialogue: 0,0:28:07.92,0:28:08.98,Default,,0,0,0,,
 Dialogue: 0,0:28:08.70,0:28:10.22,Default,,0,0,0,,Seriously I just want to smack him!
 Dialogue: 0,0:28:11.76,0:28:15.37,Default,,0,0,0,,Kids have their own strengths and weaknesses, you know.
 Dialogue: 0,0:28:15.53,0:28:22.06,Default,,0,0,0,,Take math for me, I was so terrible at it I hated studying.
-Dialogue: 0,0:28:27.06,0:28:31.03,Sign,,0,0,0,,41st year of the Showa era, 9th Month (September 1966)
+Dialogue: 0,0:28:27.06,0:28:31.03,Sign,,0,0,0,,41st year of the Showa era, Ninth Month (September 1966)
 Dialogue: 0,0:28:32.42,0:28:33.63,Default,,0,0,0,,Uh… Um… You see… Um…
 Dialogue: 0,0:28:35.45,0:28:40.12,Default,,0,0,0,,Before this test, um… we had art class.
 Dialogue: 0,0:28:41.25,0:28:43.17,Default,,0,0,0,,And then, um.
@@ -660,7 +661,7 @@ Dialogue: 0,0:33:57.30,0:34:01.53,Default,,0,0,0,,Women got married and staying 
 Dialogue: 0,0:34:01.53,0:34:03.63,Default,,0,0,0,,That's how it was.
 Dialogue: 0,0:34:05.74,0:34:06.56,Default,,0,0,0,,I see.
 Dialogue: 0,0:34:08.97,0:34:12.27,Default,,0,0,0,,Hey, what kind of person was Grandma's father?
-Dialogue: 0,0:34:19.63,0:34:22.59,Sign,,0,0,0,,41st year of the Showa era, 5th Month (May 1966)
+Dialogue: 0,0:34:19.63,0:34:22.59,Sign,,0,0,0,,41st year of the Showa era, Fifth Month (May 1966)
 Dialogue: 0,0:34:20.26,0:34:25.59,Top,,0,0,0,,The House of Representatives on the 14th… The Japan Socialist Party….
 Dialogue: 0,0:34:24.13,0:34:25.07,Default,,0,0,0,,Taeko!
 Dialogue: 0,0:34:28.93,0:34:31.98,Default,,0,0,0,,Honestly, Dad is way too soft on you, Taeko!
@@ -863,9 +864,9 @@ Dialogue: 0,0:45:58.91,0:45:59.94,Default,,0,0,0,,You're being called.
 Dialogue: 0,0:46:01.20,0:46:02.75,Default,,0,0,0,,Ah… Sorry.
 Dialogue: 0,0:46:02.75,0:46:03.98,Default,,0,0,0,,Is it… my line?
 Dialogue: 0,0:46:04.34,0:46:05.91,Default,,0,0,0,,Um… Where was I?
-Dialogue: 0,0:46:06.31,0:46:07.22,Default,,0,0,0,,Ah, Here!
+Dialogue: 0,0:46:06.31,0:46:07.23,Default,,0,0,0,,Ah, Here!
 Dialogue: 0,0:46:06.84,0:46:07.10,Default,,0,0,0,,{Umm…}
-Dialogue: 0,0:46:07.10,0:46:08.93,Default,,0,0,0,,I… I have an important announcement.
+Dialogue: 0,0:46:07.23,0:46:08.93,Default,,0,0,0,,I… I have an important announcement.
 Dialogue: 0,0:46:09.90,0:46:10.71,Default,,0,0,0,,What is it?
 Dialogue: 0,0:46:11.69,0:46:12.61,Default,,0,0,0,,What happened!?
 Dialogue: 0,0:46:12.71,0:46:13.27,Default,,0,0,0,,Huh!
@@ -877,7 +878,7 @@ Dialogue: 0,0:46:21.25,0:46:21.69,Default,,0,0,0,,Hermia
 Dialogue: 0,0:46:22.10,0:46:22.57,Default,,0,0,0,,Hermia...
 Dialogue: 0,0:46:23.00,0:46:24.39,Default,,0,0,0,,You don't need to react there.
 Dialogue: 0,0:46:24.92,0:46:26.05,Default,,0,0,0,,Ah sorry.
-Dialogue: 0,0:46:26.22,0:46:30.22,Default,,0,0,0,,Okay. Um, for now Let's stick to what's written in the script.
+Dialogue: 0,0:46:26.22,0:46:30.22,Default,,0,0,0,,Okay. Um, for now let's stick to what's written in the script.
 Dialogue: 0,0:46:30.92,0:46:31.18,Default,,0,0,0,,Okay.
 Dialogue: 0,0:46:31.21,0:46:31.90,Default,,0,0,0,,Yes yes!
 Dialogue: 0,0:46:33.47,0:46:34.01,Default,,0,0,0,,Egeus,
@@ -939,7 +940,7 @@ Dialogue: 0,0:48:46.26,0:48:47.78,Default,,0,0,0,,I know it's dramatic!
 Dialogue: 0,0:48:50.76,0:48:52.56,Default,,0,0,0,,Taeko-san, that's wonderful.
 Dialogue: 0,0:48:53.55,0:48:56.29,Default,,0,0,0,,You sound like you're in love.
 Dialogue: 0,0:48:56.77,0:49:01.29,Default,,0,0,0,,{Huh!? Haha! Hehehe….}
-Dialogue: 0,0:49:08.43,0:49:11.60,Default,,0,0,0,,41st year of the Showa era, 5th Month (May 1966)
+Dialogue: 0,0:49:08.43,0:49:11.60,Default,,0,0,0,,41st year of the Showa era, Fifth Month (May 1966)
 Dialogue: 0,0:49:01.71,0:49:17.05,Default,,0,0,0,,{♬～}
 Dialogue: 0,0:49:17.05,0:49:18.79,Default,,0,0,0,,Excuse me,
 Dialogue: 0,0:49:18.98,0:49:21.08,Default,,0,0,0,,is there someone named Okajima here?
@@ -956,16 +957,16 @@ Dialogue: 0,0:49:44.45,0:49:46.10,Default,,0,0,0,,Yeah, totally seriously!
 Dialogue: 0,0:49:46.10,0:49:47.36,Default,,0,0,0,,Huh? Is that true?
 Dialogue: 0,0:49:51.28,0:49:52.47,Default,,0,0,0,,Excuse me,
 Dialogue: 0,0:49:53.52,0:49:56.39,Default,,0,0,0,,who is Hirota-kun?
-Dialogue: 0,0:49:56.39,0:49:57.69,Default,,0,0,0,,Oh he's from Class 5.
+Dialogue: 0,0:49:56.39,0:49:57.69,Default,,0,0,0,,Oh he's from Class Five.
 Dialogue: 0,0:49:58.76,0:49:59.33,Default,,0,0,0,,Hiro!
 Dialogue: 0,0:49:59.92,0:50:01.22,Default,,0,0,0,,Hiro! They're calling you.
 Dialogue: 0,0:50:02.60,0:50:04.55,Default,,0,0,0,,Yes that's me.
-Dialogue: 0,0:50:05.10,0:50:08.97,Default,,0,0,0,,Okajima-san from Class 5 said, "I don't know how to respond to something like that." {not sure}
+Dialogue: 0,0:50:05.10,0:50:08.97,Default,,0,0,0,,Okajima-san from Class Five said, "I don't know how to respond to something like that." {not sure}
 Dialogue: 0,0:50:10.41,0:50:10.94,Default,,0,0,0,,Huh?
 Dialogue: 0,0:50:11.33,0:50:13.31,Default,,0,0,0,,That's what Okajima-san said.
 Dialogue: 0,0:50:13.47,0:50:14.57,Default,,0,0,0,,Yeah exactly.
 Dialogue: 0,0:50:16.73,0:50:18.73,Default,,0,0,0,,Huh… I didn't say anything though.
-Dialogue: 0,0:50:19.28,0:50:22.79,Default,,0,0,0,,Hiro you said you like that girl from Class 5, Okajima, didn't you?
+Dialogue: 0,0:50:19.28,0:50:22.79,Default,,0,0,0,,Hiro you said you like that girl from Class Five, Okajima, didn't you?
 Dialogue: 0,0:50:22.79,0:50:25.23,Default,,0,0,0,,So I just told her for you.
 Dialogue: 0,0:50:22.79,0:50:26.29,Default,,0,0,0,,{Laughter}
 Dialogue: 0,0:50:26.29,0:50:27.85,Default,,0,0,0,,What….
@@ -977,7 +978,7 @@ Dialogue: 0,0:50:48.49,0:50:50.11,Default,,0,0,0,,I properly told him, okay?
 Dialogue: 0,0:50:51.82,0:50:53.72,Default,,0,0,0,,Good for you Taeko-chan.
 Dialogue: 0,0:50:54.32,0:50:56.44,Default,,0,0,0,,Now you can relax.
 Dialogue: 0,0:50:57.59,0:50:58.23,Default,,0,0,0,,Yeah….
-Dialogue: 0,0:50:58.32,0:51:01.40,Default,,0,0,0,,What! Hirota from Class 4 likes Okajima!?
+Dialogue: 0,0:50:58.32,0:51:01.40,Default,,0,0,0,,What! Hirota from Class Four likes Okajima!?
 Dialogue: 0,0:51:01.93,0:51:03.47,Default,,0,0,0,,Hirota is amazing.
 Dialogue: 0,0:51:03.47,0:51:04.39,Default,,0,0,0,,He's the ace.
 Dialogue: 0,0:51:04.39,0:51:06.64,Default,,0,0,0,,We are going to lose in the finals for sure.
@@ -992,7 +993,7 @@ Dialogue: 0,0:51:21.52,0:51:23.36,Default,,0,0,0,,Ready… Rock-paper-scissors, 
 Dialogue: 0,0:51:23.36,0:51:25.06,Default,,0,0,0,,See ya!
 Dialogue: 0,0:51:25.56,0:51:26.38,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:51:26.62,0:51:33.59,Default,,0,0,0,,five, four, three, two, one, zero!
-Dialogue: 0,0:51:35.63,0:51:39.35,Default,,0,0,0,,Starting now, the match between Class 5-4 and 5-5 begins.
+Dialogue: 0,0:51:35.63,0:51:39.35,Default,,0,0,0,,Starting now, the match between Class Five-Four and Five-Five begins.
 Dialogue: 0,0:51:39.68,0:51:40.09,Default,,0,0,0,,Bow!
 Dialogue: 0,0:51:40.62,0:51:42.90,Default,,0,0,0,,Please take care of us!
 Dialogue: 0,0:51:43.80,0:51:45.48,Default,,0,0,0,,Let's go!
@@ -1008,7 +1009,7 @@ Dialogue: 0,0:52:12.13,0:52:14.40,Default,,0,0,0,,{Applause and cheers}
 Dialogue: 0,0:52:14.40,0:52:16.12,Default,,0,0,0,,Nice one Hiro!
 Dialogue: 0,0:52:17.44,0:52:19.70,Default,,0,0,0,,Amazing! Amazing!
 Dialogue: 0,0:52:19.77,0:52:20.99,Default,,0,0,0,,Taeko-chan
-Dialogue: 0,0:52:21.18,0:52:23.51,Default,,0,0,0,,If you cheer for Class four, I won't forgive you.
+Dialogue: 0,0:52:21.18,0:52:23.51,Default,,0,0,0,,If you cheer for Class Four, I won't forgive you.
 Dialogue: 0,0:52:23.56,0:52:26.75,Default,,0,0,0,,N-no… I wouldn't do that.
 Dialogue: 0,0:52:27.78,0:52:31.11,Default,,0,0,0,,Go Go Class Five!
 Dialogue: 0,0:52:31.22,0:52:34.47,Default,,0,0,0,,Go Go Class Five!
@@ -1017,7 +1018,7 @@ Dialogue: 0,0:52:40.42,0:52:41.49,Default,,0,0,0,,Alright!
 Dialogue: 0,0:52:42.79,0:52:45.00,Default,,0,0,0,,{Applause and cheers}
 Dialogue: 0,0:52:46.63,0:52:48.23,Default,,0,0,0,,Ah….
 Dialogue: 0,0:52:48.57,0:52:58.81,Default,,0,0,0,,{♬～}
-Dialogue: 0,0:52:58.81,0:53:02.38,Default,,0,0,0,,Game set. Five to three. Class four wins!
+Dialogue: 0,0:52:58.81,0:53:02.38,Default,,0,0,0,,Game set. Five to three. Class Four wins!
 Dialogue: 0,0:53:02.38,0:53:04.92,Default,,0,0,0,,Thank you very much!
 Dialogue: 0,0:53:04.92,0:53:10.09,Default,,0,0,0,,{Cheers}
 Dialogue: 0,0:53:10.09,0:53:11.54,Default,,0,0,0,,It's Sue's fault!
@@ -1271,7 +1272,7 @@ Dialogue: 0,1:07:45.82,1:07:48.85,Default,,0,0,0,,people's feelings are complica
 Dialogue: 0,1:07:49.97,1:07:51.33,Default,,0,0,0,,What? Where did that come from?
 Dialogue: 0,1:07:52.26,1:07:55.07,Default,,0,0,0,,Well you see,
 Dialogue: 0,1:07:55.32,1:07:58.38,Default,,0,0,0,,I had a similar experience like Mizuki did.
-Dialogue: 0,1:08:09.15,1:08:13.74,Sign,,0,0,0,,41st year of the Showa era, 6th Month (June 1966)
+Dialogue: 0,1:08:09.15,1:08:13.74,Sign,,0,0,0,,41st year of the Showa era, Sixth Month (June 1966)
 Dialogue: 0,1:07:59.41,1:08:00.49,Default,,0,0,0,,Really?
 Dialogue: 0,1:08:02.59,1:08:06.39,Default,,0,0,0,,There was a transfer student named Abe-kun.
 Dialogue: 0,1:08:09.22,1:08:16.10,Default,,0,0,0,,Reduce 12/8 to a simple fraction by using common factors.
